@@ -1,7 +1,7 @@
 {
 	"folders": [
 		{
-			"uri": "vscode-remote://wsl+ubuntu-22.04/mnt/c/Users/Seed/Documents/Claudiusprojects/lospec_pl"
+			"uri": "vscode-remote://wsl+ubuntu-22.04/home/drseedlu/MyClaudiusProjects/Claudiusprojects/lospec_pl"
 		}
 	],
 	"remoteAuthority": "wsl+ubuntu-22.04",
