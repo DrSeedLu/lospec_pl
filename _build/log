@@ -1,0 +1,16 @@
+# dune exec ./bin/main.exe
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/drseedlu/.cache/dune/db
+# Workspace root: /mnt/c/Users/Seed/Documents/Claudiusprojects/lospec_pl
+# Auto-detected concurrency: 4
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/drseedlu/.opam/default/bin/ocamlc.opt -config > /tmp/dune_b3acf2_output
